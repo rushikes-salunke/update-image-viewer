@@ -1,0 +1,22 @@
+{
+  "name": "angular-11x-image-viewer",
+  "version": "2.1.2",
+  "peerDependencies": {
+    "@angular/common": "^14.2.12",
+    "@angular/core": "^14.2.12",
+    "font-awesome": "^4.7.0"
+  },
+  "keywords": [
+    "ngx-image-viewer",
+    "angular-11-image-viewer",
+    "angular-11x-image-viewer",
+    "image-loader",
+    "image-fullscreen",
+    "loader",
+    "image",
+    "angular-image",
+    "ngx-image",
+    "Angular Image Viewer",
+    "Angular Image Loader"
+  ]
+}
